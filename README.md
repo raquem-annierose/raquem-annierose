@@ -112,3 +112,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raquem-annierose&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
 </p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raquem-annierose/raquem-annierose/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
