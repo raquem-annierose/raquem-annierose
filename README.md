@@ -11,7 +11,6 @@
 
 <p align="center">
   Passionate about building systems that blend <b>functionality</b> and <b>creativity</b>.  
-  Currently exploring <b>Full-Stack Web Development</b> and <b>Game Development</b> using Godot 🎮
 </p>
 
 
@@ -23,22 +22,9 @@
 
 ### ✨ A Bit More About Me
 - 🎓 Currently studying **Information Technology**  
-- 🌸 Believes in balancing logic with creativity  
-- 🎮 Currently exploring **Game Development using Godot Engine**
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/niera_ro" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niera_ro" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/annieroseraquem" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="annieroseraquem" height="30" width="40" />
-</a>
-<a href="https://instagram.com/niera_ro" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niera_ro" height="30" width="40" />
-</a>
-</p>
+- 🌸 Believes in balancing logic with creativity
+- 💻 Currently exploring **Full-Stack Web Development**
+- 🕹️ Also diving into **Game Development using Godot Engine**  
 
 ---
 
@@ -89,6 +75,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raquem-annierose&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raquem-annierose&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raquem-annierose&theme=tokyonight" />
 </p>
 
@@ -97,13 +84,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raquem-annierose&theme=tokyonight" alt="Profile Details" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raquem-annierose&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raquem-annierose&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=raquem-annierose&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -113,7 +93,21 @@
   <img src="https://komarev.com/ghpvc/?username=raquem-annierose&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
 </p>
 
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raquem-annierose/raquem-annierose/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/niera_ro" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niera_ro" height="30" width="40" />
+</a>
+<a href="https://kaggle.com/annieroseraquem" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="annieroseraquem" height="30" width="40" />
+</a>
+<a href="https://instagram.com/niera_ro" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niera_ro" height="30" width="40" />
+</a>
 </p>
+
+---
+
+
