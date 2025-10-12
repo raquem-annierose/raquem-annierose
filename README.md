@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Annie Rose</h1>
-<h3 align="center">A passionate IT student from PUP-T</h3>
+<h3 align="center">A passionate 3rd year student from PUP-T</h3>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
@@ -75,38 +75,49 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raquem-annierose&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raquem-annierose&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raquem-annierose&theme=tokyonight" />
 </p>
 
 
+<!-- Profile Stats Section -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raquem-annierose&theme=tokyonight" alt="Profile Details" />
 </p>
 
-
+<!-- Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=raquem-annierose&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!-- Activity Graph (Animated Feel) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raquem-annierose&bg_color=0d1117&color=ff69b4&line=00eaff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raquem-annierose&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
 </p>
+
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/niera_ro" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niera_ro" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/annieroseraquem" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="annieroseraquem" height="30" width="40" />
-</a>
-<a href="https://instagram.com/niera_ro" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niera_ro" height="30" width="40" />
-</a>
+  <a href="https://twitter.com/niera_ro" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niera_ro" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/annieroseraquem" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="annieroseraquem" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/niera_ro" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niera_ro" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/annie-rose-raquem-3a0236363/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annie-rose-raquem" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
