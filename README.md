@@ -15,6 +15,8 @@
 
 ## 🕹️ Character Info
 
+<img src="assets/annie-emoji.gif" align="right" width="220" alt="Annie Rose mascot"/>
+
 ```yaml
 class:      IT Student @ PUP-T
 guild:      Full-Stack Web Development
@@ -86,7 +88,7 @@ side_quest: Game Development with Godot Engine
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raquem-annierose&theme=radical&hide_border=true&background=1a0033&stroke=c77dff&ring=9d4edd&fire=e0aaff&currStreakLabel=c77dff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=raquem-annierose&theme=radical&hide_border=true&background=1a0033&stroke=c77dff&ring=9d4edd&fire=e0aaff&currStreakLabel=c77dff&v=2" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -100,7 +102,7 @@ side_quest: Game Development with Godot Engine
 - 🎓 Grinding **Information Technology** XP at PUP-T
 - 🌐 Building full-stack apps with **React, Node.js & TypeScript**
 - 🤖 Integrating **AI (Gemini)** into real-world web systems
-- 🗃️ Working with **MySQL/Knex**, **Docker**, and **AWS** deployments
+- 🗃️ Working with **MySQL/Knex** and **AWS** deployments
 - 🕹️ Side quest: **Game Development with Godot Engine**
 - 🌙 Believes in balancing logic with creativity
 
