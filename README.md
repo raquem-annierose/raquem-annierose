@@ -15,7 +15,9 @@
 
 ## 🕹️ Character Info
 
-<img src="assets/annie-emoji.gif" align="right" width="220" alt="Annie Rose mascot"/>
+<table>
+<tr>
+<td valign="middle">
 
 ```yaml
 class:      IT Student @ PUP-T
@@ -25,6 +27,13 @@ motto:      "Balance logic with creativity."
 current_quest: Building AI-integrated web systems
 side_quest: Game Development with Godot Engine
 ```
+
+</td>
+<td align="center" valign="middle" width="220">
+<img src="assets/annie-emoji.gif" width="180" alt="Annie Rose mascot"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
