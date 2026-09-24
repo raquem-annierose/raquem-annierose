@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6a0dad,100:c77dff&height=220&section=header&text=Annie%20Rose&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Level%20Up%20Every%20Commit&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=700&lines=Creative Developer;IT+Student+%40+PUP-T;Building+AI-powered+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=700&lines=Creative+Developer;IT+Student+%40+PUP-T;Building+AI-powered+web+apps" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=raquem-annierose&label=PROFILE+VIEWS&color=6a0dad&style=for-the-badge" alt="Profile views"/>
