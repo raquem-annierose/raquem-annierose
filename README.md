@@ -22,7 +22,7 @@
 
 ```yaml
 class:      IT Student @ PUP-T
-guild:      Full-Stack Web Development
+guild:      Creative Developer
 alignment:  Chaotic Creative
 motto:      "Balance logic with creativity."
 current_quest: Building AI-integrated web systems
