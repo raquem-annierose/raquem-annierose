@@ -111,7 +111,7 @@ side_quest: Game Development with Godot Engine
 ## 🎯 Quest Log
 
 - 🎓 Grinding **Information Technology** XP at PUP-T
-- 🌐 Building full-stack apps with **React, Node.js & TypeScript**
+- 🌐 Building creative web apps with **React, Node.js & TypeScript**
 - 🤖 Integrating **AI (Gemini)** into real-world web systems
 - 🗃️ Working with **MySQL/Knex** and **AWS** deployments
 - 🕹️ Side quest: **Game Development with Godot Engine**
